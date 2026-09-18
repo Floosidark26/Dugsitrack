@@ -1,6 +1,6 @@
 /* DugsiHub Design System — Professional Blue Edition */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=Fraunces:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;800;900&family=Inter:wght@400;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
 
 :root {
@@ -9,8 +9,8 @@
   --surface-soft: #eaf2ff;
   --surface-muted: #e9f8ef;
   --outline: #dbe4f0;
-  --primary: #2563eb;
-  --primary-strong: #1d4ed8;
+  --primary: #004ac6;
+  --primary-strong: #003ea8;
   --primary-soft: #eaf2ff;
   --on-surface: #121b2e;
   --on-surface-variant: #434655;
@@ -36,7 +36,7 @@
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.6;
